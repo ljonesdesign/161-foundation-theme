@@ -1,0 +1,21 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_3_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur stdDeviation="5.9"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="402" height="402" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#57c2e0" stroke="#000" stroke-width="0" stroke-opacity="null" x="13" y="9" width="367" height="374" id="svg_3" filter="url(#svg_3_blur)"/>
+  <text fill="#ffffff" stroke-width="0" stroke-opacity="null" x="76.138244" y="146.323003" id="svg_12" font-size="39" font-family="'League Gothic', sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(6.98991, 0, 0, 6.98991, -507.743, -764.972)" stroke="#000">Logo</text>
+  <ellipse fill="#ffffff" stroke="#000" stroke-width="0" stroke-opacity="null" cx="346.5" cy="287.5" id="svg_13" rx="129.5" ry="139.5" opacity="0.36"/>
+ </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_3_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur stdDeviation="5.9"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_12_blur">
+   <feGaussianBlur stdDeviation="3.1" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="402" height="402" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#567cdd" stroke="#000" stroke-width="0" stroke-opacity="null" x="17" y="12" width="367" height="374" id="svg_3" filter="url(#svg_3_blur)"/>
+  <rect id="svg_14" height="289" width="246" y="47" x="78" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <path filter="url(#svg_12_blur)" stroke="#000" id="svg_12" d="m359.03598,125.22255l-317.09732,0l158.54866,101.77342l158.54866,-101.77342zm-149.16266,145.12878c-2.91333,1.87568 -6.14333,2.82068 -9.37333,2.82068s-6.46,-0.945 -9.386,-2.82068l-161.61399,-103.70637l0,211.52205l341.99998,0l0,-211.52205l-161.62666,103.70637z" stroke-opacity="null" stroke-width="0" fill="#60605f"/>
+  <path stroke="#000" id="svg_2" d="m358.035984,118.222548l-317.09732,0l158.54866,101.77342l158.54866,-101.77342zm-149.16266,145.128782c-2.913333,1.875678 -6.143333,2.820676 -9.373333,2.820676s-6.46,-0.944998 -9.386,-2.820676l-161.613993,-103.70637l0,211.52205l341.999986,0l0,-211.52205l-161.62666,103.70637z" stroke-opacity="null" stroke-width="0" fill="#ff7f00"/>
+  <text xml:space="preserve" text-anchor="start" font-family="'League Gothic', sans-serif" font-size="39" id="svg_13" y="160" x="138" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">contact me</text>
+ </g>
+</svg>

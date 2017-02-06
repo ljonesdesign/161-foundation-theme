@@ -1,0 +1,17 @@
+/*   note that the url has to have ../ to find the image    */
+
+html {
+	background: url(../images/leaves.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	background: none;
+}
+
+h1, h2 {
+ color: brown;
+}
